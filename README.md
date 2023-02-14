@@ -1,5 +1,8 @@
 # Heilo
 
+Hosted on GitHub:
+https://sahil-ansari01.github.io/Heilo/
+
 This project is about another layout that I designed in the process of learnign Frontend Developement.
 
 This is how it looks in full page
@@ -10,5 +13,4 @@ This is how it looks in mobile device size i.e; @800px
 
 ![heiloRGitHub](https://user-images.githubusercontent.com/108484457/218693608-31149eef-cf32-4796-b225-ee98925ff780.png)
 
-Hosted on GitHub:
-https://sahil-ansari01.github.io/Heilo/
+
